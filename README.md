@@ -9,3 +9,4 @@ YouTube 資料快速查看器 是一款輕量、直覺的 Chrome 擴充功能。
 2. 載入擴充：開啟 Chrome 瀏覽器，網址列輸入 chrome://extensions/，開啟右上角「開發人員模式」，點擊「載入未封裝項目」並選擇解壓縮後的資料夾。
 3. 即時體驗：進入任意 YouTube 頻道或影片頁面，滑鼠移至右下角懸浮按鈕即可自動查看完整數據！
 # 
+#### YouTube Music + Spotify 音樂快速查看與控制器：https://github.com/easonchen1368-spec/YouTube-Data-View/
